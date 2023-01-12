@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninamohnke&count_private=true&show_icons=true&theme=tokyonight)<br/>
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ninamohnke&count_private=true&show_icons=true&theme=tokyonight)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ninamohnke&theme=tokyonight&hide_border=false)<br/>
 
